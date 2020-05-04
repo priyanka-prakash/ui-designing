@@ -1,0 +1,26 @@
+.sidebar{
+    left:0px;
+    width: 15%;
+    border: 1px solid #cecece;
+    background-color: #f2f2f2;
+}
+
+.sidebar li{
+    list-style: none;
+}
+
+.sidebar li a{
+   
+    /* identical to box height, or 154% */
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 21px;
+
+    /* identical to box height */
+
+    color: #000000;
+}
+
